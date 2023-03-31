@@ -1,6 +1,6 @@
 Name:		texlive-step
 Version:	57307
-Release:	1
+Release:	2
 Summary:	A free Times-like font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/step
