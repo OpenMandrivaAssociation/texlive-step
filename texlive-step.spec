@@ -3,7 +3,7 @@ Version:	57307
 Release:	2
 Summary:	A free Times-like font
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/step
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/step
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/step.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/step.doc.r%{version}.tar.xz
